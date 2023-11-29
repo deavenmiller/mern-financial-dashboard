@@ -164,7 +164,7 @@ const Row3 = (props: Props) => {
                   ))}
                 </Pie>
               </PieChart>
-              <Typography variant="h5">{data[0].name}</Typography>
+              <Typography mt="-0.3rem" variant="h5">{data[0].name}</Typography>
             </Box>
           ))}
         </FlexBetween>
